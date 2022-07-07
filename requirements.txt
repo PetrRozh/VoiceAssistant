@@ -1,0 +1,14 @@
+beautifulsoup4==4.9.3
+certifi==2022.6.15
+chardet==4.0.0
+comtypes==1.1.11
+googlesearch-python==1.1.0
+idna==2.10
+PyAudio @ file:///C:/Users/DELL/Desktop/myVoiceAssistant/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+pypiwin32==223
+pyttsx3==2.90
+pywin32==304
+requests==2.25.1
+soupsieve==2.3.2.post1
+SpeechRecognition==3.8.1
+urllib3==1.26.9
