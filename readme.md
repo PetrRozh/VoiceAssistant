@@ -7,7 +7,7 @@
 
 ---
 ## Библиотеки:
-[PyAudio][1] & [SpeechRecognition][2] - для записи и распознования голоса
+[PyAudio](https://people.csail.mit.edu/hubert/pyaudio/docs/) & [SpeechRecognition](https://developer.mozilla.org/ru/docs/Web/API/SpeechRecognition) - для записи и распознования голоса
 
 ---
 ##Команды, которые может распознать и выполнить ассистент:
@@ -18,7 +18,3 @@
 > 5. Выключить wi-fi</br>
 > 6. Выполнить вычитание двух чисел</br>
 > 7. Закрыть ассистента</br>
-
-[[1]](https://people.csail.mit.edu/hubert/pyaudio/docs/)
-
-[[2]](https://developer.mozilla.org/ru/docs/Web/API/SpeechRecognition)
