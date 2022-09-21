@@ -12,7 +12,7 @@ def record_and_recognize_audio(*args: tuple):
     with microphone:
         recognized_data = ""
 
-        recognizer.adjust_for_ambient_noise(microphone, duration=2)
+        recognizer.adjust_for_microphone, duration=2)
 
         try:
             print("Слушаю...")
